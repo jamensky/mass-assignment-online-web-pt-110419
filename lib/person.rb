@@ -3,6 +3,6 @@ class Person
 
   def initialize(avi_attributes)
 
-  end 
-  
+  end
+
 end
